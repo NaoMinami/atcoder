@@ -1,6 +1,6 @@
 # atcoder memo
 
-ghp_De2NWSj4lfW042ZwGQY7gWcgKDwogc
+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
 
 ## 二分探索
 
