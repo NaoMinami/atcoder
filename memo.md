@@ -1,5 +1,7 @@
 # atcoder memo
 
+ghp_De2NWSj4lfW042ZwGQY7gWcgKDwogc
+
 ## 二分探索
 
 int数列arrの中から、keyの値を探索する二分探索法
